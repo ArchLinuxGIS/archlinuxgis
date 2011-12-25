@@ -1,0 +1,9 @@
+.repomgmt
+**/Rakefile
+**/pkg
+**/src
+rakefile.rb
+**/*.gem
+**/*.tar.*
+**/*.zip
+pkglist.md
