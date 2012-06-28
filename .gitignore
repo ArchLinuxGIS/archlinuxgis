@@ -9,3 +9,4 @@ rakefile.rb
 **/*.zip
 pkglist.md
 **/*.thor
+**/*.log
