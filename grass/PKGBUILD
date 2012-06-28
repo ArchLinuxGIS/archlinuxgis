@@ -56,7 +56,8 @@ build() {
     --with-nls \
     --with-gdal \
     --with-geos \
-    --with-proj \
+    --with-proj-includes=/usr/include \
+    --with-proj-libs=/usr/lib \
     --with-proj-share=/usr/share/proj \
     --with-python=/usr/bin/python2-config \
     --with-wxwidgets=/usr/bin/wx-config

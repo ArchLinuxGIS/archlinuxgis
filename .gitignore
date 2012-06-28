@@ -8,3 +8,4 @@ rakefile.rb
 **/*.tar.*
 **/*.zip
 pkglist.md
+**/*.thor
