@@ -1,5 +1,6 @@
 .gitignore
 .repomgmt
+**/.contributed
 **/Rakefile
 **/pkg
 **/src
